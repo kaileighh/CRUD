@@ -1,0 +1,56 @@
+// Place all the styles related to the Appointments controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.link {
+    display: block;
+    height: 4vh;
+    background-color: #333333;
+    padding-top: 15px;
+    padding-left: 10px;
+    color: white;
+}
+
+.link>a:visited {
+    color: white !important;
+}
+
+ahead {
+    display: block;
+    height: 7vh;
+}
+
+tt {
+    display: inline-block;
+    font-size: 30px;
+    padding: 15px 15px 0px 15px;
+}
+
+tp {
+    display: block;
+    height: 4vh;
+}
+
+abody {
+    display: block;
+    background-color: white;
+    
+}
+
+tk {
+    display: inline-block;
+    padding: 15px 40px 0px 10px;
+}
+
+.back {
+    display: block;
+    height: 4vh;
+    background-color: #333333;
+    padding-top: 15px;
+    padding-left: 10px;
+    color: white;
+}
+
+.back>a:visited {
+    color: white !important;
+}
